@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Tripathi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer;Mobile+App+Developer;MERN+Stack+Developer;React+%7C+Redux+%7C+React+Native" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Front-End+Developer;Mobile+App+Developer;MERN+Stack+Developer;React+%7C+Redux+%7C+React+Native" />
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 ---
 
 ## 👨‍💻 About Me
-Frontend & Mobile Application Developer with **3+ years of experience** in building scalable web & mobile apps.  
-Expert in **React.js, Redux, React Native, MERN Stack**, with a strong focus on **performance, clean UI & reusable components**.
+Frontend & Mobile Application Developer with **3+ years of experience** building scalable web and mobile applications.  
+Expert in **React.js, Redux, React Native, and MERN Stack**, focused on **performance, clean UI, and reusable components**.
 
 ---
 
@@ -58,48 +58,44 @@ Expert in **React.js, Redux, React Native, MERN Stack**, with a strong focus on 
 - **Nippon Data Systems Pvt. Ltd.** – Frontend Developer  
 - **Centum Technology** – MERN Stack Developer  
 
-✔ REST API Integration  
-✔ Redux Toolkit State Management  
-✔ Performance Optimization  
-✔ Responsive UI  
-
 ---
 
 ## 🚀 Featured Projects
-🔹 **Medleapr (Web & Mobile App)**  
-🔹 **Canvas Editing Tool (Fabric.js)**  
-🔹 **Full-Stack MERN Applications**
+🔹 Medleapr – Web & Mobile Application  
+🔹 Canvas Editing Tool – Fabric.js  
+🔹 Full-Stack MERN Applications  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amit9554&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amit9554&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amit9554&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit9554&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit9554&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit9554&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph Animation
+## 🐍 Contribution Graph Snake Animation
+
 <p align="center">
   <img src="https://github.com/amit9554/amit9554/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📈 Career Goals
-- Building scalable frontend systems
-- Creating pixel-perfect UI/UX
-- Growing as a **Senior Frontend / Mobile Engineer**
+## 🎯 Career Goals
+- Become Senior Frontend / Mobile Engineer  
+- Build scalable, high-performance UI systems  
+- Lead frontend architecture projects  
 
 ---
 
-⭐ *“Code Smart. Build Fast. Scale Better.”*
+⭐ *“Clean Code • Scalable UI • Performance First”*
