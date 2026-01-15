@@ -25,7 +25,7 @@
 ---
 
 ## 👨‍💻 About Me
-Frontend & Mobile Application Developer with **2+ years of experience** in building scalable web & mobile apps.  
+Frontend & Mobile Application Developer with **3+ years of experience** in building scalable web & mobile apps.  
 Expert in **React.js, Redux, React Native, MERN Stack**, with a strong focus on **performance, clean UI & reusable components**.
 
 ---
